@@ -54,10 +54,10 @@
 #define PORT_VERSION_INFO_API				 (STD_ON)
 
 /* Port Indexes */
-#define PORT_PORTA_INDEX				    	(Port_PortType)0
-#define PORT_PORTB_INDEX						(Port_PortType)1
-#define PORT_PORTC_INDEX						(Port_PortType)2
-#define PORT_PORTD_INDEX						(Port_PortType)3
+#define PORT_PORTA_INDEX				    	0
+#define PORT_PORTB_INDEX						1
+#define PORT_PORTC_INDEX						2
+#define PORT_PORTD_INDEX						3
 
 /* Channel Index in the array of structures in Port_PBcfg.c */
 #define PORTCONF_PA0_INDEX		    	 		(uint8)0
